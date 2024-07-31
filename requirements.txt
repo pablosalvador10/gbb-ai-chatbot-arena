@@ -7,7 +7,7 @@ langchain-core==0.2.11
 langchain-community>=0.0.9
 msal>=0.6.1,<2
 openai==1.6.1
-azure-ai-documentintelligence
+azure-ai-documentintelligence==1.0.0b3
 pandas
 pypdf
 azure-cognitiveservices-speech
